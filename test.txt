@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=netfilx \
+  -Dsonar.host.url=http://3.108.237.84:9000 \
+  -Dsonar.login=b8b46bd6b03136ded604546e462561e481f88d27
